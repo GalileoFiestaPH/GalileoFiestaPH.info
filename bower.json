@@ -1,0 +1,30 @@
+{
+  "name": "Charles-Web-Starter",
+  "version": "1.0.0",
+  "authors": [
+    "Charles Josh <charlesjosh@outlook.com>"
+  ],
+  "description": "Use as a dropdown solution for new web stuff (Bower).",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "http://charlesjosh.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "susy": "~2.2.5",
+    "breakpoint-sass": "~2.5.0",
+    "fontawesome": "~4.3.0"
+  },
+  "dependencies": {
+    "bourbon": "~4.2.3",
+    "angular": "~1.4.0"
+  }
+}

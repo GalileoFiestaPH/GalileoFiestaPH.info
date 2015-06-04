@@ -1,0 +1,21 @@
+{
+  "name": "Charles-Web-Starter",
+  "version": "1.0.0",
+  "description": "Use as a dropdown solution for new web stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"No test command yet, sorry\\\" && exit 1\""
+  },
+  "postinstall": "bower install"
+  "author": "Charles Josh",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-filter": "^2.0.2",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2"
+  },
+  "dependencies": {
+    "main-bower-files": "^2.8.0"
+  }
+}
