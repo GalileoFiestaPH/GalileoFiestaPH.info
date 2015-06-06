@@ -1,0 +1,30 @@
+{
+  "type": "project",
+  "projectTitle": "Basic Accelerometer",
+  "projectAuthor": "Asia Pacific College",
+  "projectLink": "https://www.dropbox.com/sh/f45vdretygmf0hr/AAABXxmEQQxyUYuIKKs4jsXZa?dl=0",
+  "projectVideo": "//www.youtube-nocookie.com/embed/QxeNfnKVtIU",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "A basic accelerometer."
+    },
+    {
+      "type": "video",
+      "title": "Video"
+    },
+    {
+      "type": "images",
+      "title": "Images",
+      "images": [
+        "apc-accelerometer-1.jpg",
+        "apc-accelerometer-2.jpg",
+        "apc-accelerometer-3.jpg",
+        "apc-accelerometer-4.jpg",
+        "apc-accelerometer-5.jpg",
+        "apc-accelerometer-6.jpg"
+      ]
+    }
+  ]
+}

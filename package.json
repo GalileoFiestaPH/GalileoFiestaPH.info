@@ -1,12 +1,12 @@
 {
-  "name": "Charles-Web-Starter",
+  "name": "GalileoFiestaPH.info",
   "version": "1.0.0",
-  "description": "Use as a dropdown solution for new web stuff.",
+  "description": "The website repository of http://galileofiestaph.info",
   "main": "index.js",
   "scripts": {
     "test": "\"echo \\\"No test command yet, sorry\\\" && exit 1\""
   },
-  "postinstall": "bower install"
+  "postinstall": "bower install",
   "author": "Charles Josh",
   "license": "ISC",
   "devDependencies": {

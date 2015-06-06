@@ -1,0 +1,28 @@
+{
+  "type": "project",
+  "projectTitle": "Web-Controlled Servo Motor",
+  "projectAuthor": "Philippine Science High School Main Campus",
+  "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "Create a remotely operated device that could be manipulated via a web browser."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo Board with servo motor",
+        "Wired network connectivity",
+        "Network connected device with web browser",
+        "Additional props"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Jason Alcarez, Kelvin Bartilad, Ralph Benedict Bucao"
+    }
+  ]
+}

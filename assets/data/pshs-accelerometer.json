@@ -1,0 +1,28 @@
+{
+  "type": "project",
+  "projectTitle": "Accelerometer and Vector Mathematics",
+  "projectAuthor": "Philippine Science High School Main Campus",
+  "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "Accelerometers are used to determine the direction of gravity, and can be used to determine the orientation of devices. By orienting the accelerometer in different positions of known slopes, the concept of vectors can be visualized more clearly."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo with accelerometer module",
+        "Two wooden dowels or pencils hinged together at one end",
+        "Protractor",
+        "Spirit level"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Jason Alcarez, Kelvin Bartilad, Ralph Benedict Bucao"
+    }
+  ]
+}

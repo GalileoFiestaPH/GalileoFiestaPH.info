@@ -1,0 +1,18 @@
+{
+  "type": "page",
+  "pageDesc": "About",
+  "mainHeader": "Filipinos,",
+  "secondaryHeader": " what will you make?",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Goal",
+      "text": "Galileo Fiesta PH aims to gather all projects, activities, manuals, and inventions made by Filipino individuals, groups, and communities that utilizes Intel's Galileo boards. It also aims to be an avenue for Filipino makers to showcase their work, be recognized, and inspire more people into the world of embedded systems and microelectronics."
+    },
+    {
+      "type": "paragraph",
+      "title": "Licensing",
+      "text": "Everything in this website is licensed under the <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a>. You may use, perform, tweak, modify, share, and/or add upon the projects presented as long as it remains non-commercial, it is shared with the same license, and an attribution to the original source is provided."
+    }
+  ]
+}

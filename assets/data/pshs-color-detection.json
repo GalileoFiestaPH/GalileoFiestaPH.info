@@ -1,0 +1,27 @@
+{
+  "type": "project",
+  "projectTitle": "Color Detection via Reflection",
+  "projectAuthor": "Philippine Science High School Main Campus",
+  "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "Surface color is determined by the amount of light reflected off a surface. This circuit should return relative red, green, and blue light levels reflected off an area."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo with color sensor circuit",
+        "3\" × 3\" cut illustration board (or equivalent cardboard piece that is black on one side, white on the other)",
+        "Various colored materials, with different surface types (e.g. matte vs. glossy)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Jason Alcarez, Kelvin Bartilad, Ralph Benedict Bucao"
+    }
+  ]
+}

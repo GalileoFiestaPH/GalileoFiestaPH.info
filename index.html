@@ -1,26 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="galileoFiestaApp">
 <head>
-	<meta charset="UTF-8">
-	<!-- Page Info -->
-	<title>Intel Galileo PH - Project Repositories</title>
-	<meta name="description" content="An aggregation of projects, modules, and creations made possible with the Intel Galileo.">
-	<!-- Viewport Tag -->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Twitter Card -->
-	<meta name="twitter:card" content="An aggregation of projects, modules, and creations made possible with the Intel Galileo.">
-	<meta name="twitter:site" content="@heyCharlesJosh">
-	<!-- Open Graph -->
-	<meta property="og:title" content="Intel Galileo PH - Project Repositories">
-	<meta property="og:type" content="website">
-	<meta property="og:image" content="someimagehere">
-	<meta property="og:url" content="http://charlesjosh.com">
-	<!-- Non-HTML5 Support -->
-	<!--[if lte IE 9]>
-		<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv-printshiv.min.js"></script>
-	<![endif]-->
+    <meta charset="UTF-8">
+    <!-- Page Info -->
+    <title>Intel Galileo PH - Project Repositories</title>
+    <meta name="description"
+          content="An aggregation of projects, modules, and creations made possible with the Intel Galileo.">
+    <!-- Viewport Tag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Twitter Card -->
+    <meta name="twitter:card"
+          content="An aggregation of projects, modules, and creations made possible with the Intel Galileo.">
+    <meta name="twitter:site" content="@heyCharlesJosh">
+    <!-- Open Graph -->
+    <meta property="og:title" content="Intel Galileo PH - Project Repositories">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="someimagehere">
+    <meta property="og:url" content="http://charlesjosh.com">
+    <!-- Non-HTML5 Support -->
+    <!--[if lte IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+    <!-- Styles -->
+    <link rel="stylesheet" href="assets/styles/screen.css"/>
+    <link rel="stylesheet" href="assets/styles/baguetteBox.min.css"/>
+    <link rel="stylesheet" href="assets/components/fontawesome/css/font-awesome.css"/>
+    <!--<link href='http://fonts.googleapis.com/css?family=Crete+Round|Oxygen|Raleway:700,300' rel='stylesheet' type='text/css'>-->
 </head>
-<body>
+<body ng-controller="GalileoCtrl as galileo">
+    <header ng-include="galileo.header"></header>
+    <section class="body view-container">
+        <div class="view-frame" ng-view></div>
+    </section>
+    <footer ng-include="galileo.footer"></footer>
 
+    <!-- Scripts -->
+    <script src="assets/scripts/live.js"></script>
+    <script src="assets/components/angular/angular.js"></script>
+    <script src="assets/components/angular-route/angular-route.js"></script>
+    <script src="assets/components/angular-resource/angular-resource.js"></script>
+    <script src="assets/components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="assets/components/angular-animate/angular-animate.js"></script>
+    <script src="assets/scripts/smooth-scroll.min.js"></script>
+    <script src="assets/scripts/app.js"></script>
+    <script src="assets/scripts/controllers.js"></script>
+    <script src="assets/scripts/services.js"></script>
 </body>
 </html>

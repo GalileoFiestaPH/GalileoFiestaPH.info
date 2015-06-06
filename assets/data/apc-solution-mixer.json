@@ -1,0 +1,31 @@
+{
+  "type": "project",
+  "projectTitle": "Solution Mixer",
+  "projectAuthor": "Asia Pacific College",
+  "projectLink": "https://www.dropbox.com/sh/iss0ws9jrwiy21l/AAA40jFP37-m_ptxJp5cNI90a?dl=0",
+  "projectVideo": "//www.youtube-nocookie.com/embed/KMfVbGWG6tc",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "A calibrated solution mixer powered by the Intel Galileo."
+    },
+    {
+      "type": "video",
+      "title": "Video"
+    },
+    {
+      "type": "images",
+      "title": "Images",
+      "images": [
+        "apc-solution-mixer-1.jpg",
+        "apc-solution-mixer-2.jpg",
+        "apc-solution-mixer-3.jpg",
+        "apc-solution-mixer-4.jpg",
+        "apc-solution-mixer-5.jpg",
+        "apc-solution-mixer-6.jpg",
+        "apc-solution-mixer-7.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "project",
+  "projectTitle": "Magnetometer",
+  "projectAuthor": "Philippine Science High School Main Campus",
+  "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "The magnetometer can be used to determine magnetic strength, where the Earth’s magnetic north, and sense nearby metals."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo Board with magnetometer",
+        "Permanent magnet",
+        "Wooden plank or board with metal components (nails or screws) embedded",
+        "Ruler"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Jason Alcarez, Kelvin Bartilad, Ralph Benedict Bucao"
+    }
+  ]
+}

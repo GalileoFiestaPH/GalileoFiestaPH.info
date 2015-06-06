@@ -1,0 +1,11 @@
+{
+  "type": "page",
+  "mainHeader": "404 Not Found",
+  "secondaryHeader": "The page does not exist.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Try searching again, maybe?"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "project",
+  "projectTitle": "Manually-Controlled Servo Motors",
+  "projectAuthor": "Philippine Science High School Main Campus",
+  "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "Create a remotely operated device that translates user inputs to potentiometers into motion."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo Board with servo motors and potentiometers",
+        "Additional props"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Jason Alcarez, Kelvin Bartilad, Ralph Benedict Bucao"
+    }
+  ]
+}

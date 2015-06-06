@@ -1,0 +1,13 @@
+{
+  "type": "page",
+  "pageDesc": "Contact",
+  "mainHeader": "Join us!",
+  "secondaryHeader": "The Filipino Intel maker community.",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Contact information",
+      "text": "<i class=\"fa fa-facebook-square\"></i><a href=\"https://www.facebook.com/groups/348848391979670/\"> Galileo Fiesta PH</a>"
+    }
+  ]
+}

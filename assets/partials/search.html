@@ -1,0 +1,27 @@
+<article class="main-contents search-table">
+    <ul class="repo-list">
+        <li>
+            <div class="project-column table-header"><a ng-class="{ 'order-selected': search.orderCheck('projectTitle') }" ng-click="search.orderClick('projectTitle')">Project<i ng-class="{'fa-flip-vertical': search.orderCheck('projectTitle') && search.ascending}" class="order-icon fa fa-angle-double-down"></i></a></div>
+            <div class="author-column table-header"><a ng-class="{ 'order-selected': search.orderCheck('projectAuthor') }" ng-click="search.orderClick('projectAuthor')">Author<i ng-class="{'fa-flip-vertical': search.orderCheck('projectAuthor') && search.ascending}" class="order-icon fa fa-angle-double-down"></i></a></div>
+            <div class="link-column table-header">Link</div>
+        </li>
+        <li ng-repeat="project in search.info | orderBy: search.order:search.ascending | filter: search.details.searchBar as theResult" class="listing">
+            <div class="project project-column">
+                <span><a ng-href="#project/{{project.projectURL}}">{{project.projectTitle}}</a></span>
+
+                <p>{{project.projectDesc}}</p>
+            </div>
+            <div class="author author-column">
+                <p><a ng-click="search.details.searchBar = project.projectAuthor">{{project.projectAuthor}}</a></p>
+            </div>
+            <div class="link link-column"><a ng-href="{{project.projectLink}}"><i class="fa fa-external-link"></i></a></div>
+        </li>
+        <li ng-if="theResult.length === 0" class="listing">
+            <div class="project project-column">
+                <span>No results.</span>
+
+                <p>Try again.</p>
+            </div>
+        </li>
+    </ul>
+</article>

@@ -1,0 +1,34 @@
+{
+  "type": "project",
+  "projectTitle": "Automatic Illumination Control using a Light Dependent Resistor",
+  "projectAuthor": "Bayanihan Labs, UP EEEI",
+  "projectLink": "https://www.dropbox.com/s/2kijsth5jm4grar/Activity%201%20-%20Illumination%20Control.docx?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "A simulation of an automatic illumination control system modelled with a light-emitting diode (LED) and a light dependent resistor (LDR)."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo Board with the SeeedStudio’s Grove Starter Kit Plus – Intel IoT Edition",
+        "Light sensor module",
+        "LED module",
+        "Mini USB cable",
+        "Single-colored LED"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Subject Relation",
+      "text": "We can relate this to the concepts of power consumption and of Ohm’s law in Advanced High School Physics."
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Charles Alba"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "project",
+  "projectTitle": "Temperature Sensor Controlled Air-Conditioning",
+  "projectAuthor": "Bayanihan Labs, UP EEEI",
+  "projectLink": "https://www.dropbox.com/s/dpc4yqyppsufc77/Activity%204%20-%20Automated%20Air-Conditioning%20%28unfinished%29.docx?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "A simulation of an automatic air-conditioning system using a light-emitting diode (LED) and a temperature sensor."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo Board with the SeeedStudio’s Grove Starter Kit Plus – Intel IoT Edition",
+        "Temperature sensor module",
+        "LED module",
+        "Mini USB cable",
+        "Single-colored LED"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Subject Relation",
+      "text": "We can relate this to the concepts of power consumption and of Ohm’s law in Advanced High School Physics."
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Kyle Gomez"
+    }
+  ]
+}

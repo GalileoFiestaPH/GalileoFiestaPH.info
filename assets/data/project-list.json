@@ -1,0 +1,114 @@
+[
+  {
+    "projectTitle": "Accelerometer and Vector Mathematics",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "Accelerometers are used to determine the direction of gravity, and can be used to determine the orientation of devices. By orienting the accelerometer in different positions of known slopes, the concept of vectors can be visualized more clearly.",
+    "projectURL": "pshs-accelerometer"
+  },
+  {
+    "projectTitle": "Color Detection via Reflection",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "Surface color is determined by the amount of light reflected off a surface. This circuit should return relative red, green, and blue light levels reflected off an area.",
+    "projectURL": "pshs-color-detection"
+  },
+  {
+    "projectTitle": "Ultrasonic Distance Measuring Equipment",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "Use sound to determine the distance of various objects from the ultrasonic sensor. This is the same system used in automobiles to avoid collisions.",
+    "projectURL": "pshs-ultrasonic-distance"
+  },
+  {
+    "projectTitle": "Temperature Sensor Controlled Air-Conditioning",
+    "projectAuthor": "Bayanihan Labs, UP EEEI",
+    "projectLink": "https://www.dropbox.com/s/dpc4yqyppsufc77/Activity%204%20-%20Automated%20Air-Conditioning%20%28unfinished%29.docx?dl=0",
+    "projectDesc": "A simulation of an automatic air-conditioning system using a light-emitting diode (LED) and a temperature sensor.",
+    "projectURL": "eeei-automated-aircon"
+  },
+  {
+    "projectTitle": "Automatic Illumination Control using a Light Dependent Resistor",
+    "projectAuthor": "Bayanihan Labs, UP EEEI",
+    "projectLink": "https://www.dropbox.com/s/2kijsth5jm4grar/Activity%201%20-%20Illumination%20Control.docx?dl=0",
+    "projectDesc": "A simulation of an automatic illumination control system modelled with a light-emitting diode (LED) and a light dependent resistor (LDR).",
+    "projectURL": "eeei-illumination-control"
+  },
+  {
+    "projectTitle": "GPS",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "A simple GPS setup can be used to determine location, altitude, velocity, date and time, as well as record a GPS track.",
+    "projectURL": "pshs-gps"
+  },
+  {
+    "projectTitle": "Magnetometer",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "The magnetometer can be used to determine magnetic strength, where the Earth’s magnetic north, and sense nearby metals.",
+    "projectURL": "pshs-magnetometer"
+  },
+  {
+    "projectTitle": "Manually-Controlled Servo Motors",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "Create a remotely operated device that translates user inputs to potentiometers into motion.",
+    "projectURL": "pshs-manual-servo"
+  },
+  {
+    "projectTitle": "Web-Controlled Servo Motor",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "Create a remotely operated device that could be manipulated via a web browser.",
+    "projectURL": "pshs-web-servo"
+  },
+  {
+    "projectTitle": "Spirit Level Using the Accelerometer",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "Use the accelerometer to determine how level a surface really is. This is also a good place to discuss the limitations of an accelerometer with regards to rotational information.",
+    "projectURL": "pshs-spirit-level"
+  },
+  {
+    "projectTitle": "Compass",
+    "projectAuthor": "Philippine Science High School Main Campus",
+    "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+    "projectDesc": "Use a compass that works no matter what direction you hold it.",
+    "projectURL": "pshs-compass"
+  },
+  {
+    "projectTitle": "Basic Accelerometer",
+    "projectAuthor": "Asia Pacific College",
+    "projectLink": "https://www.dropbox.com/sh/f45vdretygmf0hr/AAABXxmEQQxyUYuIKKs4jsXZa?dl=0",
+    "projectDesc": "A basic accelerometer.",
+    "projectURL": "apc-acceleration"
+  },
+  {
+    "projectTitle": "iRescue",
+    "projectAuthor": "Asia Pacific College",
+    "projectLink": "https://www.dropbox.com/sh/coo1yhci5otohoe/AABpDQQf7R5PPgVWkYSgD4Twa?dl=0",
+    "projectDesc": "iRescue, a rescue boat powered by Intel Galileo.",
+    "projectURL": "apc-i-rescue"
+  },
+  {
+    "projectTitle": "Solution Mixer",
+    "projectAuthor": "Asia Pacific College",
+    "projectLink": "https://www.dropbox.com/sh/iss0ws9jrwiy21l/AAA40jFP37-m_ptxJp5cNI90a?dl=0",
+    "projectDesc": "A calibrated solution mixer powered by the Intel Galileo.",
+    "projectURL": "apc-solution-mixer"
+  },
+  {
+    "projectTitle": "Carbon Dioxide-Oxygen Analyzer",
+    "projectAuthor": "Asia Pacific College",
+    "projectLink": "https://www.dropbox.com/sh/gaeuuicgz8ugo29/AABBS9RPIfQovMFqryXa35Wqa?dl=0",
+    "projectDesc": "Analyzes CO2 and O2 concentration in the air.",
+    "projectURL": "apc-co2-o2"
+  },
+  {
+    "projectTitle": "pH Sensor",
+    "projectAuthor": "Asia Pacific College",
+    "projectLink": "https://www.dropbox.com/sh/82akl5jpu7gyh4n/AAAGSeeFtMHW0u5FxHQIh9WMa?dl=0",
+    "projectDesc": "Analyzes pH concentration.",
+    "projectURL": "apc-ph-sensor"
+  }
+]

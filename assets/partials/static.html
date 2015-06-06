@@ -1,0 +1,31 @@
+<article class="main-contents theStatic">
+    <a ng-if="theStatic.info.type === 'project'" ng-href="{{theStatic.info.projectLink}}" target="_blank">
+        <div class="link-repo">Link</div>
+    </a>
+
+    <h3 ng-if="theStatic.info.type === 'page'">
+        <span>{{theStatic.info.mainHeader}}</span>{{theStatic.info.secondaryHeader}}
+    </h3>
+
+    <div ng-repeat="currContent in theStatic.info.content">
+        <h4 ng-bind-html="currContent.title"></h4>
+
+        <div ng-if="currContent.type === 'images'" class="image-holder">
+            <a id="{{currImg}}" ng-click="theStatic.selectImage(currImg)" ng-class="{'highlight': theStatic.isImage(currImg), 'gallery-mode': theStatic.inSlide()}" class="image-wrap" ng-repeat="currImg in currContent.images">
+                <img ng-src="assets/images/{{currImg}}" alt="Project Image" class="project-image"/>
+            </a>
+        </div>
+
+        <div ng-if="currContent.type === 'video'" class="video-container">
+            <div class='embed-container'>
+                <iframe ng-src="{{theStatic.videoURL}}" frameborder='0' allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <p ng-if="currContent.type === 'paragraph'" ng-bind-html="currContent.text"></p>
+        <ul ng-if="currContent.type === 'unordered-list'" class="fa-ul">
+            <li ng-repeat="currItem in currContent.text"
+                ng-bind-html="'<i class=\'fa fa-li fa-check-circle-o\'></i>' + currItem"></li>
+        </ul>
+    </div>
+</article>

@@ -1,0 +1,28 @@
+{
+  "type": "project",
+  "projectTitle": "iRescue",
+  "projectAuthor": "Asia Pacific College",
+  "projectLink": "https://www.dropbox.com/sh/coo1yhci5otohoe/AABpDQQf7R5PPgVWkYSgD4Twa?dl=0",
+  "projectVideo": "//www.youtube-nocookie.com/embed/JyfW8cOHAJw",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "iRescue, a rescue boat powered by Intel Galileo."
+    },
+    {
+      "type": "video",
+      "title": "Video"
+    },
+    {
+      "type": "images",
+      "title": "Images",
+      "images": [
+        "apc-i-rescue-1.jpg",
+        "apc-i-rescue-2.jpg",
+        "apc-i-rescue-3.jpg",
+        "apc-i-rescue-4.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "project",
+  "projectTitle": "Temperature and Humidity Sensor Station",
+  "projectAuthor": "Philippine Science High School Main Campus",
+  "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "Two weather parameters can be measured and recorded over time for use in monitoring local weather and climate conditions. This can be set up as a long-term monitoring project."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo Board with sensor module and micro SD card",
+        "Spreadsheet and graphing tools"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Jason Alcarez, Kelvin Bartilad, Ralph Benedict Bucao"
+    }
+  ]
+}

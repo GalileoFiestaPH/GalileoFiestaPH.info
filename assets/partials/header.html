@@ -1,0 +1,33 @@
+<nav>
+    <ul>
+        <a href="#/">
+            <li class="nav-title"><span class="nav-galileo">Galileo Fiesta</span> <span
+                    class="nav-phil">Philippines</span></li>
+        </a>
+        <a href="#/pages/about">
+            <li class="nav-about">About</li>
+        </a>
+        <a href="#/pages/contact">
+            <li class="nav-contact">Contact</li>
+        </a>
+        <li class="nav-search">
+            <span class="icon-input"><i class="fa fa-search"></i></span>
+            <input type="text" name="search-bar" id="search-bar" ng-model="galileo.details.searchBar" ng-focus="galileo.goSearch()" placeholder="Search repositories..."/>
+            <span ng-click="galileo.clear()" class="clear-input"><i class="fa fa-times"></i></span>
+        </li>
+    </ul>
+</nav>
+<section class="header-details">
+    <div class="detail-contents">
+        <div class="detail-logo">
+            <img src="assets/images/fiesta-logo.png" alt="Intel Galileo Philippines Logo"/>
+        </div>
+        <div class="detail-heads">
+            <div class="detail-wrap">
+                <h1 class="detail-title">{{galileo.details.title}}</h1>
+
+                <h2 class="detail-desc">{{galileo.details.desc}}</h2>
+            </div>
+        </div>
+    </div>
+</section>

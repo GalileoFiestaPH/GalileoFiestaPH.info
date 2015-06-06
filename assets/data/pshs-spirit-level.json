@@ -1,0 +1,28 @@
+{
+  "type": "project",
+  "projectTitle": "Spirit Level Using the Accelerometer",
+  "projectAuthor": "Philippine Science High School Main Campus",
+  "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "Use the accelerometer to determine how level a surface really is. This is also a good place to discuss the limitations of an accelerometer with regards to rotational information."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo Board with accelerometer module",
+        "Long, rigid, insulated material (e.g. thick wooden ruler) for mounting the accelerometer module ",
+        "Spirit level (for verification)",
+        "Various work areas and surfaces to test"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Jason Alcarez, Kelvin Bartilad, Ralph Benedict Bucao"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "project",
+  "projectTitle": "Carbon Dioxide-Oxygen Analyzer",
+  "projectAuthor": "Asia Pacific College",
+  "projectLink": "https://www.dropbox.com/sh/gaeuuicgz8ugo29/AABBS9RPIfQovMFqryXa35Wqa?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "Analyzes CO2 and O2 concentration in the air."
+    },
+    {
+      "type": "images",
+      "title": "Images",
+      "images": [
+        "apc-co2-o2-1.jpg",
+        "apc-co2-o2-2.jpg",
+        "apc-co2-o2-3.jpg"
+      ]
+    }
+  ]
+}

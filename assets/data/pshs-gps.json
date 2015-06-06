@@ -1,0 +1,27 @@
+{
+  "type": "project",
+  "projectTitle": "GPS",
+  "projectAuthor": "Philippine Science High School Main Campus",
+  "projectLink": "https://www.dropbox.com/s/ydxe334zu1x5vj5/PSHSMC%20Intel%20Galileo%20Projects%20wSch.pdf?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "A simple GPS setup can be used to determine location, altitude, velocity, date and time, as well as record a GPS track.<br><br>The activity may be a treasure hunt style game, where objectives are hidden at different locations (minimum of 3.0 m radius between locations). It may also be used in conjunction with field surveys and studies where the precise geographic location is needed. An alternate activity may be for tracking the subject for map-reading exercises."
+    },
+    {
+      "type": "unordered-list",
+      "title": "Materials",
+      "text": [
+        "Intel Galileo with GPS module and antenna, and micro SD card",
+        "Battery pack that provides +5 VDC via USB port (type A)",
+        "Wide open space with targets or objectives, and a clear view of the sky"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "title": "Author",
+      "text": "Jason Alcarez, Kelvin Bartilad, Ralph Benedict Bucao"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "name": "Charles-Web-Starter",
+  "name": "GalileoFiestaPH.info",
   "version": "1.0.0",
   "authors": [
     "Charles Josh <charlesjosh@outlook.com>"
   ],
-  "description": "Use as a dropdown solution for new web stuff (Bower).",
+  "description": "The website repository of http://galileofiestaph.info",
   "moduleType": [
     "globals",
     "node"
@@ -25,6 +25,10 @@
   },
   "dependencies": {
     "bourbon": "~4.2.3",
-    "angular": "~1.4.0"
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-resource": "~1.4.0",
+    "angular-sanitize": "~1.4.0",
+    "angular-animate": "~1.4.0"
   }
 }

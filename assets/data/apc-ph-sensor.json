@@ -1,0 +1,23 @@
+{
+  "type": "project",
+  "projectTitle": "pH Sensor",
+  "projectAuthor": "Asia Pacific College",
+  "projectLink": "https://www.dropbox.com/sh/82akl5jpu7gyh4n/AAAGSeeFtMHW0u5FxHQIh9WMa?dl=0",
+  "content": [
+    {
+      "type": "paragraph",
+      "title": "Description",
+      "text": "Analyzes pH concentration."
+    },
+    {
+      "type": "images",
+      "title": "Images",
+      "images": [
+        "apc-ph-sensor-1.jpg",
+        "apc-ph-sensor-2.jpg",
+        "apc-ph-sensor-3.jpg",
+        "apc-ph-sensor-4.jpg"
+      ]
+    }
+  ]
+}
